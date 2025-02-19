@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Home",
-            "altText": "Blog",
+            "altText": "Home",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",

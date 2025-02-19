@@ -23,7 +23,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Integrations",
             "altText": "",
             "url": "/integrations",
             "showIcon": false,

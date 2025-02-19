@@ -24,16 +24,7 @@
         {
             "label": "Testimonials",
             "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
+            "links": [],
             "labelStyle": "secondary",
             "type": "SubNav"
         }
